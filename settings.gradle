@@ -17,3 +17,4 @@ rootProject.name = "AndroidBaseProject"
 include ':DemoApp'
 
 include ':AndroidBaseLibrary'
+include ':AndroidWidgetLibrary'
